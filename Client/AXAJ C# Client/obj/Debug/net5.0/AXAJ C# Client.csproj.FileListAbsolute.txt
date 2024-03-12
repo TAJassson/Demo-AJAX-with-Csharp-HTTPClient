@@ -1,0 +1,21 @@
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\AXAJ C# Client.exe
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\AXAJ C# Client.deps.json
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\AXAJ C# Client.runtimeconfig.json
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\AXAJ C# Client.runtimeconfig.dev.json
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\AXAJ C# Client.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\AXAJ C# Client.pdb
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\obj\Debug\net5.0\AXAJ C# Client.csproj.AssemblyReference.cache
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\obj\Debug\net5.0\AXAJ C# Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\obj\Debug\net5.0\AXAJ C# Client.AssemblyInfoInputs.cache
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\obj\Debug\net5.0\AXAJ C# Client.AssemblyInfo.cs
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\obj\Debug\net5.0\AXAJ C# Client.csproj.CoreCompileInputs.cache
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\obj\Debug\net5.0\AXAJ C# Client.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\obj\Debug\net5.0\refint\AXAJ C# Client.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\obj\Debug\net5.0\AXAJ C# Client.pdb
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\obj\Debug\net5.0\AXAJ C# Client.genruntimeconfig.cache
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\obj\Debug\net5.0\ref\AXAJ C# Client.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\System.Management.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\obj\Debug\net5.0\AXAJ C# Client.csproj.CopyComplete
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
